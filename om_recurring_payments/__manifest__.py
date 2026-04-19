@@ -2,7 +2,7 @@
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 
 {
-    'name': 'Odoo 17 Recurring Payment',
+    'name': 'Odoo 17 Recurring Payment test',
     'author': 'Odoo Mates',
     'category': 'Accounting',
     'version': '1.0.0',

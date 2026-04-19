@@ -2,7 +2,7 @@
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 
 {
-    'name': 'Odoo 17 Fiscal Year & Lock Date',
+    'name': 'Odoo 17 Fiscal Year & Lock Date test',
     'version': '17.0.1.2',
     'category': 'Accounting',
     'summary': 'Odoo 17 Fiscal Year, Fiscal Year in Odoo 17, Lock Date in Odoo 17',

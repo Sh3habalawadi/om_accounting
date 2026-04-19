@@ -2,7 +2,7 @@
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 
 {
-    'name': 'Odoo 17 Assets Management',
+    'name': 'Odoo 17 Assets Management test',
     'version': '17.0.1.0.3',
     'author': 'Odoo Mates, Odoo SA',
     'depends': ['account'],

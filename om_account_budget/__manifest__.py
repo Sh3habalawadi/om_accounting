@@ -2,7 +2,7 @@
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 
 {
-    'name': 'Odoo 17 Budget Management',
+    'name': 'Odoo 17 Budget Management test',
     'author': 'Odoo Mates, Odoo SA',
     'category': 'Accounting',
     'version': '17.0.1.0',
